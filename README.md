@@ -1,22 +1,32 @@
-This is an example portfolio repository to get you started with Gitbooks.
+---
+description: >-
+  A platform for all relevant papers, research, and presentations I have created
+  in the statistics & computer science fields.
+---
 
-Many people ask me, "What should I put in my portfolio?"
+# Introduction
 
-I say start with what you have! Here's what I started with:
+## About Me
 
-* Multi-linear regression presentation from my regression class
-* Sleep Study ANOVA project paper from my ANOVA class
+* 👋 Hi, I’m Madison Garcia&#x20;
+* 👀 I’m interested in yoga, reading, cooking/baking, and mental & physical health!
+* 🌱 I’m currently studying statistics with an emphasis in data science
+* 💞️ I’m looking for opportunities to apply my skillset in the medical or tech fields.
+* 📫 [email me!](https://app.gitbook.com/u/14MGbZL1aOcJ0YyqaHW70LRrSp93)
 
-# About Me
-- 👋 Hi, I’m _
-- 👀 I’m interested in _
-- 🌱 I’m currently learning _
-- 💞️ I’m looking for _
-- 📫 Message me on [LinkedIn](insertURLhere)!
+## Portfolio Highlights
+
+* [Exploration into User-Friendly Tech](articles/project1/project1.md)
+* [Project 2](articles/project2/project2.md)
+* [Writing Sample](articles/blog/writing\_sample.md)
+
+## My Tech Stack
+
+* Python
+* R
+* C ++
+* Linux & Git
+* Microsoft Excel
 
 
-# Portfolio Highlights
 
-* [Project 1](/articles/project1/project1.md)
-* [Project 2](/articles/project2/project2.md)
-* [Writing Sample](/articles/blog/writing_sample.md)

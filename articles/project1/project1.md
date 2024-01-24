@@ -1,6 +1,3 @@
-# Project 1
-
-_Insert your best project here._
+# Exploration into User-Friendly Tech
 
 See [Getting Started With Markdown](https://www.markdownguide.org/getting-started/).
-
